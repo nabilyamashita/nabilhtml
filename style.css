@@ -1,0 +1,36 @@
+body {
+	font: arial, sans-serif;
+	background-color: #E9967A;
+	}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: pink;
+}
+
+.header {
+	padding: 20px;
+}
+
+h3 {
+	color: #CD5C5C;
+}
+
+h5 {
+	color: brown;
+}
+
+img {
+	width: 200px;
+	border-top: 5px solid red;
+	border-bottom: 5px solid darkblue;
+	border-left: 5px solid red;
+	border-right: 5px solid darkblue;
+}
+tr {
+	color: yellow;
+}
+td {
+	color: darkblue;
+}
